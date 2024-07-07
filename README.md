@@ -1,1 +1,5 @@
 # Milestone-Website![Screenshot 2024-07-07 155642](https://github.com/Dhina18/Milestone-Website/assets/161184616/ca103c36-3100-4055-9960-1a83e19bcde7)
+![Screenshot 2024-07-07 161245](https://github.com/Dhina18/Milestone-Website/assets/161184616/6e843a37-8176-41ae-8b98-ed0933ba2d35)
+![Screenshot 2024-07-07 161310](https://github.com/Dhina18/Milestone-Website/assets/161184616/1239525b-75b9-4179-b6c4-ea2327c5cb2d)
+![Screenshot 2024-07-07 161328](https://github.com/Dhina18/Milestone-Website/assets/161184616/ee3c53c3-c5b0-4cd2-839e-806f716af3ec)
+![Screenshot 2024-07-07 161349](https://github.com/Dhina18/Milestone-Website/assets/161184616/db111ac6-3f91-410d-82c5-dae975a6e462)
